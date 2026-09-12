@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Singh</h1>
 <h3 align="center">B.Tech CSE Student | DSA Enthusiast | Learning Full-Stack Development 🚀</h3>
 
-<p align="left"> <a href="https://github.com/anshs4096"><img src="https://github-profile-trophy.vercel.app/?username=anshs4096" alt="anshs4096" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Full-Stack Web Development and DSA**
