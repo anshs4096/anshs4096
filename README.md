@@ -112,6 +112,20 @@ A personal developer portfolio showcasing my skills, projects and learning journ
 
 ---
 
+## 📚 My GitHub Repositories
+
+<p align="center">
+  <a href="https://github.com/anshs4096?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore all my projects, experiments, and coding practice repositories on GitHub.
+</p>
+
+---
+
 ## 🧩 Coding Profiles
 
 <p align="center">
