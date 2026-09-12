@@ -111,55 +111,55 @@ A personal developer portfolio showcasing my skills, projects and learning journ
 
 <table>
 <tr>
-<td width="50%">
+
+<td align="center" width="25%">
 
 ### 🔥 Clones
 
 **HTML**
 
 <a href="https://github.com/anshs4096/Clones">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
 ### 🚀 FSD-CSE-15
 
 **JavaScript**
 
 <a href="https://github.com/anshs4096/FSD-CSE-15">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
 ### 🧠 DSA
 
 **Java**
 
 <a href="https://github.com/anshs4096/DSA">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
 ### 📚 DSA-Training
 
 **Java**
 
 <a href="https://github.com/anshs4096/DSA-Training">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 </table>
 
