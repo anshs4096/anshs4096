@@ -104,8 +104,6 @@ Data Structures & Algorithms
 </p>
 -->
 
----
-
 ### 💼 Personal Portfolio
 
 A personal developer portfolio showcasing my skills, projects and learning journey.
