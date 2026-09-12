@@ -68,8 +68,8 @@ Data Structures & Algorithms
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshs4096&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshs4096&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshs4096&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshs4096&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Data Structures & Algorithms
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshs4096&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anshs4096&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Data Structures & Algorithms
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshs4096&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshs4096&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -93,30 +93,17 @@ Data Structures & Algorithms
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshs4096/anshs4096/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshs4096/anshs4096/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anshs4096/anshs4096/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/anshs4096/anshs4096/output/github-contribution-grid-snake.svg" width="95%" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshs4096&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshs4096&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="95%" />
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🎓 Campus Connect
-
-A project focused on helping students connect, collaborate and access useful campus-related resources.
-
-**Tech:** HTML • CSS • JavaScript
 
 ### 💼 Personal Portfolio
 
