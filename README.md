@@ -109,25 +109,59 @@ A personal developer portfolio showcasing my skills, projects and learning journ
 
 ## 📚 My GitHub Repositories
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Clones
+
+**HTML**
 
 <a href="https://github.com/anshs4096/Clones">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=Clones&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+<td width="50%">
+
+### 🚀 FSD-CSE-15
+
+**JavaScript**
 
 <a href="https://github.com/anshs4096/FSD-CSE-15">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=FSD-CSE-15&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 DSA
+
+**Java**
 
 <a href="https://github.com/anshs4096/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=DSA&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+<td width="50%">
+
+### 📚 DSA-Training
+
+**Java**
 
 <a href="https://github.com/anshs4096/DSA-Training">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=DSA-Training&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
