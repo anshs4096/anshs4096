@@ -3,11 +3,6 @@
 <h3 align="center">B.Tech CSE Student | DSA Enthusiast | Full-Stack Developer in Progress 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshs4096&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/anshs4096?label=Followers&style=flat" alt="GitHub Followers"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;DSA+%7C+Java+%7C+Problem+Solving;Learning+Full-Stack+Development;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
@@ -115,13 +110,23 @@ A personal developer portfolio showcasing my skills, projects and learning journ
 ## 📚 My GitHub Repositories
 
 <p align="center">
-  <a href="https://github.com/anshs4096?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
-</p>
 
-<p align="center">
-  Explore all my projects, experiments, and coding practice repositories on GitHub.
+<a href="https://github.com/anshs4096/Clones">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=Clones&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anshs4096/FSD-CSE-15">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=FSD-CSE-15&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anshs4096/DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=DSA&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/anshs4096/DSA-Training">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshs4096&repo=DSA-Training&theme=tokyonight&hide_border=true" />
+</a>
+
 </p>
 
 ---
